@@ -1,0 +1,5 @@
+Name: SampleC1
+Description: 
+Version: 0.1
+Libs: -L"/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC1/SampleC1/bin/Debug" -lSampleC1
+Cflags: -I"/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC1/SampleC1"

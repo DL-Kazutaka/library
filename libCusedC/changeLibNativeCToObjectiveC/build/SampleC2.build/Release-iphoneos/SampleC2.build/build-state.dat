@@ -1,0 +1,151 @@
+TSampleC2
+v5
+r1
+cCheck dependencies
+cCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a normal armv7s
+cCpHeader SampleC2.h build/Release-iphoneos/usr/local/include/SampleC2.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c
+c0000000051F74E020000000000000084
+t1375161858
+s132
+i"SampleC2.h"
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.h
+c0000000051F718AE000000000000007D
+t1375148206
+s125
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c
+c0000000051F752570000000000000097
+t1375162967
+s151
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/usr/local/include/SampleC2.h
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.LinkFileList
+c0000000051F753FC0000000000000142
+t1375163388
+s322
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.LinkFileList
+c0000000051F754260000000000000144
+t1375163430
+s324
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies827405a68ba7b741^3c2d0ba68ba7b741^---0#1#0#--18"Check dependencies36"E605C44D-BA16-4FBC-9A5A-039FF2C072B6-
+
+CCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s396856188.614169
+e396856188.669904
+r1
+xCompileC
+xbuild/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c10929d7c8ba7b741^5680ab7c8ba7b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c0000000000000000^3372"CompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.o SampleC2.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources/armv7 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.o36"8BDEACC9-069C-48AA-B883-DF2E5C630C56-
+
+CCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s396856188.614379
+e396856188.650039
+r1
+xCompileC
+xbuild/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c8e949d7c8ba7b741^d368a67c8ba7b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c0000000000000000^3384"CompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o Sampletest.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources/armv7 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o36"C147C5A8-7208-4786-82EC-F3BBB184B289-
+
+CCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s396856230.046243
+e396856230.095881
+r1
+xCompileC
+xbuild/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.cef1e0ca68ba7b741^f5a018a68ba7b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c0000000000000000^3379"CompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o SampleC2.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources/armv7s -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.c -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.o36"91DF6770-5115-454E-8EC4-915BEB60AA91-
+
+CCompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s396856230.046249
+e396856230.103844
+r1
+xCompileC
+xbuild/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.ca4180ca68ba7b741^fb951aa68ba7b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c0000000000000000^3391"CompileC build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o Sampletest.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/SampleC2-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources/armv7s -I/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/Sampletest.c -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o36"BB941BD4-AC7B-4170-B43B-5DB682190B81-
+
+CCpHeader SampleC2.h build/Release-iphoneos/usr/local/include/SampleC2.h
+s396856230.127565
+e396856230.131594
+r1
+xCpHeader
+xSampleC2.h
+xbuild/Release-iphoneos/usr/local/include/SampleC2.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Release-iphoneos/usr/local/include/SampleC2.h0bd220a68ba7b741^47b021a68ba7b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/usr/local/include/SampleC2.h000000000080d041^810"CpHeader SampleC2.h build/Release-iphoneos/usr/local/include/SampleC2.h    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/SampleC2.h /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/usr/local/include36"5E3F6B91-020A-4DA3-8B78-0779F3D0045E-
+
+CLibtool /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a normal armv7
+s396856188.677256
+e396856188.684988
+r1
+xLibtool
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o has no symbols
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Libtool build/Release-iphoneos/libSampleC2.a normal armv7cc7ead7c8ba7b741^6b64af7c8ba7b741^-279"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/Sampletest.o has no symbols-0#0#0#--1032"Libtool build/Release-iphoneos/libSampleC2.a normal armv7    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -filelist /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7/SampleC2.LinkFileList -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a36"4F6C65B4-C757-41C9-82AD-805E311DDD95-
+
+CLibtool /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a normal armv7s
+s396856230.111369
+e396856230.118998
+r1
+xLibtool
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o has no symbols
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Libtool build/Release-iphoneos/libSampleC2.a normal armv7s8c9d1ca68ba7b741^4f771ea68ba7b741^-280"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/Sampletest.o has no symbols-0#0#0#--1035"Libtool build/Release-iphoneos/libSampleC2.a normal armv7s    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos -filelist /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/SampleC2.build/Release-iphoneos/SampleC2.build/Objects-normal/armv7s/SampleC2.LinkFileList -o /Users/DLGames/Documents/matsusaki/Xamarin/library/library_test/c/SampleC2/build/Release-iphoneos/libSampleC2.a36"FBBF96D7-DC12-437D-B020-39E95A196FE5-
+
