@@ -1,0 +1,764 @@
+Ttest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Info.plist test/test-Info.plist
+cProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test normal i386
+cGenerateDSYMFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test
+cCopyStringsFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
+cCpResource test/Default.png build/Release-iphonesimulator/test.app/Default.png
+cCpResource test/Default@2x.png build/Release-iphonesimulator/test.app/Default@2x.png
+cCpResource test/Default-568h@2x.png build/Release-iphonesimulator/test.app/Default-568h@2x.png
+cCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard
+cCpResource Title.png build/Release-iphonesimulator/test.app/Title.png
+cTouch /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/calib3d/calib3d.hpp
+c0000000051D0B5160000000000009303
+t1372632342
+s37635
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/contrib/contrib.hpp
+c0000000051D0B5160000000000009648
+t1372632342
+s38472
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/contrib/openfabmap.hpp
+c0000000051D0B5160000000000003207
+t1372632342
+s12807
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/contrib/retina.hpp
+c0000000051D0B5160000000000005D97
+t1372632342
+s23959
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/core.hpp
+c0000000051D0B516000000000002D73C
+t1372632342
+s186172
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/core_c.h
+c0000000051D0B5160000000000013298
+t1372632342
+s78488
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/mat.hpp
+c0000000051D0B5160000000000013A5A
+t1372632342
+s80474
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/operations.hpp
+c0000000051D0B516000000000001F855
+t1372632342
+s129109
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/types_c.h
+c0000000051D0B516000000000000E041
+t1372632342
+s57409
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/core/version.hpp
+c0000000051D0B5160000000000000B70
+t1372632342
+s2928
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/features2d/features2d.hpp
+c0000000051D0B516000000000000F902
+t1372632342
+s63746
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/flann/config.h
+c0000000051D0B51600000000000006FD
+t1372632342
+s1789
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/flann/defines.h
+c0000000051D0B516000000000000124B
+t1372632342
+s4683
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/flann/miniflann.hpp
+c0000000051D0B5160000000000001785
+t1372632342
+s6021
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/highgui/highgui.hpp
+c0000000051D0B51600000000000023CA
+t1372632342
+s9162
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/highgui/highgui_c.h
+c0000000051D0B51600000000000066C9
+t1372632342
+s26313
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/imgproc/imgproc.hpp
+c0000000051D0B516000000000000DA60
+t1372632342
+s55904
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/imgproc/imgproc_c.h
+c0000000051D0B516000000000000767F
+t1372632342
+s30335
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/imgproc/types_c.h
+c0000000051D0B5160000000000004038
+t1372632342
+s16440
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/ml/ml.hpp
+c0000000051D0B51600000000000132A1
+t1372632342
+s78497
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/objdetect/objdetect.hpp
+c0000000051D0B51600000000000091B7
+t1372632342
+s37303
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/opencv.hpp
+c0000000051D0B5160000000000000ABF
+t1372632342
+s2751
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/photo/photo.hpp
+c0000000051D0B5160000000000000F9D
+t1372632342
+s3997
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/photo/photo_c.h
+c0000000051D0B5160000000000000A57
+t1372632342
+s2647
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/video/background_segm.hpp
+c0000000051D0B5160000000000002A72
+t1372632342
+s10866
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/video/tracking.hpp
+c0000000051D0B51600000000000047FF
+t1372632342
+s18431
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/Headers/video/video.hpp
+c0000000051D0B5160000000000000970
+t1372632342
+s2416
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/opencv2.framework/opencv2
+c0000000051D1A392000000000232FC04
+t1372693394
+s36895748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051DCB7A10000000000228FE0
+t1373419425
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051DCB7A200000000003DDFA0
+t1373419426
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051DCB7A200000000000015F7
+t1373419426
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051DCB7A50000000000000E8D
+t1373419429
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051DCB7A80000000000AB6230
+t1373419432
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051DCB7B40000000000001B73
+t1373419444
+s7027
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/../../../../../Downloads/opencv-2.4.6.1/build/lib/libopencv_core.dylib
+c0000000051FB82590000000000261924
+t1375437401
+s2496804
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/Title.png
+c0000000051FF521700000000000085E8
+t1375687191
+s34280
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app.dSYM
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Default.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Default@2x.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Info.plist
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/PkgInfo
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Title.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/test
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList
+c0000000051FF662D00000000000001A6
+t1375692333
+s422
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/AppDelegate.m
+c0000000051FF568500000000000007D0
+t1375688325
+s2000
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/ViewController.mm
+c0000000051FF61590000000000000E95
+t1375691097
+s3733
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/en.lproj/InfoPlist.strings
+c0000000051FF5685000000000000002D
+t1375688325
+s45
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/en.lproj/MainStoryboard_iPad.storyboard
+c0000000051FF5685000000000000061D
+t1375688325
+s1565
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+c0000000051FF5776000000000000134C
+t1375688566
+s4940
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/main.m
+c0000000051FF56850000000000000149
+t1375688325
+s329
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch
+c0000000051FF5E4A0000000000000170
+t1375690314
+s368
+i<Availability.h>
+i<opencv2/opencv.hpp>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts/libopencv_core.a
+c0000000051E8AFB3000000000021F668
+t1374203827
+s2225768
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/Title.png
+c0000000051FF521700000000000085E8
+t1375687191
+s34280
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default@2x.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Info.plist
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/PkgInfo
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Title.png
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList
+c000000005212027A00000000000001D9
+t1376911994
+s473
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.h
+c0000000051FF5685000000000000010E
+t1375688325
+s270
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m
+c0000000051FF568500000000000007D0
+t1375688325
+s2000
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.h
+c0000000051FF57760000000000000121
+t1375688566
+s289
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm
+c000000005200BC090000000000001048
+t1375779849
+s4168
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/InfoPlist.strings
+c0000000051FF5685000000000000002D
+t1375688325
+s45
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard
+c0000000051FF5685000000000000061D
+t1375688325
+s1565
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+c000000005209EB5A000000000000134C
+t1376381786
+s4940
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m
+c0000000051FF56850000000000000149
+t1375688325
+s329
+
+N/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch
+c00000000520099A40000000000000170
+t1375771044
+s368
+i<Availability.h>
+i<opencv2/opencv.hpp>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth
+t2
+s0
+
+Ntest/test-Info.plist
+c0000000051FF56850000000000000642
+t1375688325
+s1602
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf96a57fa39c2b741^703f68fa39c2b741^---0#1#0#--18"Check dependencies36"2D13326E-C84D-4191-A660-2056129849EE-
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398604795.303547
+e398604795.533293
+r1
+xCompileC
+xbuild/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m234b4efb39c2b741^c78488fb39c2b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m0000000000000000^3972"CompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/AppDelegate.m -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o36"58898C38-8616-4214-BD12-85636ECE775C-
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s398604798.405740
+e398604798.893872
+r1
+xCompileC
+xbuild/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm:37:9: warning: unused variable 'b' [-Wunused-variable]
+o    int b = cvGetNumThreads();
+o        ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm304c6afe39c2b741^80d2e4fe39c2b741^-213"/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm:37:9: warning: unused variable 'b' [-Wunused-variable]    int b = cvGetNumThreads();        ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@19"Unused variable 'b'-398604798#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@111"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm0000000000000000^36#8#36#8#683#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@111"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm0000000000000000^4140"CompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o test/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/ViewController.mm -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/ViewController.o36"241DF75F-EF8D-437D-BC14-BACB34492362-
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398604795.303507
+e398604795.520382
+r1
+xCompileC
+xbuild/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.ma0164ffb39c2b741^e33785fb39c2b741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m0000000000000000^3930"CompileC build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch -MMD -MT dependencies -MF /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/main.m -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/main.o36"8B461F6E-5DAE-4A9E-BBBE-4C6F9C0F766A-
+
+CCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/en.lproj/MainStoryboard_iPad.storyboard
+r0
+
+CCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+r0
+
+CCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard
+s398604799.329956
+e398604801.693616
+r1
+xCompileStoryboard
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard
+o2013-08-19 20:33:21.010 Interface Builder Cocoa Touch Tool[36678:14603] CFPreferences: user home directory at file://localhost/Users/DLGames/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard test/en.lproj/MainStoryboard_iPad.storyboardbfb854ff39c2b741^7193b1013ac2b741^-242"2013-08-19 20:33:21.010 Interface Builder Cocoa Touch Tool[36678:14603] CFPreferences: user home directory at file://localhost/Users/DLGames/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1113"CompileStoryboard test/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"F03AC4B9-CAE8-45F3-968F-103FD3244257-
+
+CCompileStoryboard /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+s398604799.327448
+e398604801.695978
+r1
+xCompileStoryboard
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard
+o2013-08-19 20:33:21.010 Interface Builder Cocoa Touch Tool[36677:14603] CFPreferences: user home directory at file://localhost/Users/DLGames/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard test/en.lproj/MainStoryboard_iPhone.storyboard8e2154ff39c2b741^753cb2013ac2b741^-242"2013-08-19 20:33:21.010 Interface Builder Cocoa Touch Tool[36677:14603] CFPreferences: user home directory at file://localhost/Users/DLGames/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1119"CompileStoryboard test/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"8CE3E190-D2D5-4645-B746-D1BBF466AF08-
+
+CCopyStringsFile /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
+s398604799.309363
+e398604799.317150
+r1
+xCopyStringsFile
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings
+xtest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy test/en.lproj/InfoPlist.strings8fa54fff39c2b741^ad3051ff39c2b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/en.lproj/InfoPlist.strings0000000000000000^694"CopyStringsFile build/Release-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/en.lproj -- test/en.lproj/InfoPlist.strings36"1751E5AA-C10B-4485-A698-FEE8B350812E-
+
+CCpResource Title.png build/Release-iphonesimulator/test.app/Title.png
+s398604801.697421
+e398604801.701719
+r1
+xCpResource
+xTitle.png
+xbuild/Release-iphonesimulator/test.app/Title.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Release-iphonesimulator/test.app/Title.pngcea7b2013ac2b741^40a4b3013ac2b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Title.png000000000080d041^837"CpResource Title.png build/Release-iphonesimulator/test.app/Title.png    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/Title.png /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app36"D0762790-A645-4B50-8577-A68894AC1352-
+
+CCpResource test/Default-568h@2x.png build/Release-iphonesimulator/test.app/Default-568h@2x.png
+s398604799.318483
+e398604799.327556
+r1
+xCpResource
+xtest/Default-568h@2x.png
+xbuild/Release-iphonesimulator/test.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/test.app/Default-568h@2x.pngbcb352ff39c2b741^83da53ff39c2b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default-568h@2x.png000000000080d041^883"CpResource "test/Default-568h@2x.png" "build/Release-iphonesimulator/test.app/Default-568h@2x.png"    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default-568h@2x.png" /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app36"3C26B377-C794-4DE7-AC85-7E29FB6E35CD-
+
+CCpResource test/Default.png build/Release-iphonesimulator/test.app/Default.png
+s398604799.309390
+e398604799.314830
+r1
+xCpResource
+xtest/Default.png
+xbuild/Release-iphonesimulator/test.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Release-iphonesimulator/test.app/Default.png77844fff39c2b741^399950ff39c2b741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default.png000000000080d041^853"CpResource test/Default.png build/Release-iphonesimulator/test.app/Default.png    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default.png /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app36"B9EA6ED6-CA25-4A63-B7F9-8BCB95B0D4B9-
+
+CCpResource test/Default@2x.png build/Release-iphonesimulator/test.app/Default@2x.png
+s398604799.316456
+e398604799.325770
+r1
+xCpResource
+xtest/Default@2x.png
+xbuild/Release-iphonesimulator/test.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release-iphonesimulator/test.app/Default@2x.pngbf6251ff39c2b741^44a353ff39c2b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Default@2x.png000000000080d041^868"CpResource "test/Default@2x.png" "build/Release-iphonesimulator/test.app/Default@2x.png"    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/Default@2x.png" /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app36"9477CF6B-C414-4198-9296-50359580DA0F-
+
+CGenerateDSYMFile /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app.dSYM /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/test
+r0
+
+CGenerateDSYMFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test
+s398604799.233733
+e398604799.300213
+r1
+xGenerateDSYMFile
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYMc85d3cff39c2b741^94dd4cff39c2b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM000000000080d041^776"GenerateDSYMFile build/Release-iphonesimulator/test.app.dSYM build/Release-iphonesimulator/test.app/test    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app.dSYM36"797E782E-5E43-4F32-9479-119701B07D8E-
+
+CLd /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/test normal i386
+r0
+
+CLd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test normal i386
+s398604798.901832
+e398604799.225992
+r1
+xLd
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test
+xnormal
+xi386
+old: warning: directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Downloads/opencv-2.4.6.1/build/lib'
+old: warning: directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts'
+old: warning: ignoring file /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a, file was built for archive which is not the architecture being linked (i386): /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test95f1e7fe39c2b741^dfe239ff39c2b741^-676"ld: warning: directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Downloads/opencv-2.4.6.1/build/lib'ld: warning: directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts'ld: warning: ignoring file /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a, file was built for archive which is not the architecture being linked (i386): /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a3(21%IDEActivityLogMessage2@157"Directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Downloads/opencv-2.4.6.1/build/lib'-398604798#0#171#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@205"Directory not found for option '-L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts'-398604798#171#219#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@272"Ignoring file /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a, file was built for archive which is not the architecture being linked (i386): /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/libopencv_core.a-398604798#390#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#0#--2031"Ld build/Release-iphonesimulator/test.app/test normal i386    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test -L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Downloads/opencv-2.4.6.1/build/lib -L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts -L/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/../../../../../Opencv/opencv/platforms/ios/output/build/iPhoneOS-armv7/modules/core/UninstalledProducts -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -stdlib=libc++ -mios-simulator-version-min=6.1 -framework opencv2 -framework UIKit -framework Foundation -framework CoreGraphics -lopencv_core -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/test36"2C74FC3F-DD44-427D-97E3-93A2E629F1CD-
+
+CProcessInfoPlistFile /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Info.plist test/test-Info.plist
+s397385133.790288
+e397385133.794920
+r1
+xProcessInfoPlistFile
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Info.plist
+xtest/test-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process test/test-Info.plist268ccaad9dafb741^1380cbad9dafb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Info.plist0000000000000000^745"ProcessInfoPlistFile build/Release-iphonesimulator/test.app/Info.plist test/test-Info.plist    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility test/test-Info.plist -genpkginfo /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app/Info.plist36"87AC496B-35DD-4E73-936F-F76E6D12C477-
+
+CProcessInfoPlistFile /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Info.plist test/test-Info.plist
+s398604794.416427
+e398604794.421078
+r1
+xProcessInfoPlistFile
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Info.plist
+xtest/test-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process test/test-Info.plista6d36afa39c2b741^81cb6bfa39c2b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Info.plist0000000000000000^796"ProcessInfoPlistFile build/Release-iphonesimulator/test.app/Info.plist test/test-Info.plist    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility test/test-Info.plist -genpkginfo /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app/Info.plist36"36E7DFDE-24F0-41F0-B911-3F9B20D70409-
+
+CProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398604794.429735
+e398604795.295695
+r1
+xProcessPCH
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pchaa436efa39c2b741^a7b34bfb39c2b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch0000000000000000^3878"ProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-acgpyiibkunvwsagseedwpvuapms/test-Prefix.pch.d36"8AF8CB1E-8A8D-4203-BC44-66C8F28D4806-
+
+CProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397385133.804130
+e397385134.444784
+r1
+xProcessPCH
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch2b17cead9dafb741^6ade71ae9dafb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch0000000000000000^3644"ProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-eifymrfgvygljjdbjcnskgddweib/test-Prefix.pch.d36"7FFE5EF3-44BE-4DF4-A0BD-A87B01D8FC50-
+
+CProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398603936.940706
+e398603937.491486
+r1
+xProcessPCH
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch1b10f1a036c2b741^d4d17da136c2b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch0000000000000000^3814"ProcessPCH /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-fpuciozxinuukdfaoksilhscytlj/test-Prefix.pch.d36"45092EF7-DC90-41BD-B8E1-2C14AA25C665-
+
+CProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397385133.804133
+e397385134.242122
+r0
+xProcessPCH++
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch:12:9: fatal error: 'opencv2/opencv.hpp' file not found
+o#import <opencv2/opencv.hpp>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch5918cead9dafb741^fef23dae9dafb741^-190"/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch:12:9: fatal error: 'opencv2/opencv.hpp' file not found#import <opencv2/opencv.hpp>        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@35"'opencv2/opencv.hpp' file not found-397385134#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@92"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch0000000000000000^11#8#11#8#249#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch0000000000000000^3794"ProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-dcupiukecngqvgazdnlhuslgrhwl/test-Prefix.pch.d36"9F09C3C0-D927-4026-A504-3722A5715986-
+
+CProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s398603936.940718
+e398603937.289291
+r0
+xProcessPCH++
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch:12:9: fatal error: 'opencv2/opencv.hpp' file not found
+o#import <opencv2/opencv.hpp>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch9010f1a036c2b741^e2234aa136c2b741^-207"/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch:12:9: fatal error: 'opencv2/opencv.hpp' file not found#import <opencv2/opencv.hpp>        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@35"'opencv2/opencv.hpp' file not found-398603937#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch0000000000000000^11#8#11#8#249#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch0000000000000000^3964"ProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-djgaoewpvvkgpfcnkuyomdieldrf/test-Prefix.pch.d36"6C13549A-2324-422F-A2CC-E0C3D576019D-
+
+CProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s398604794.429756
+e398604798.393890
+r1
+xProcessPCH++
+x/var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth
+xtest/test-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pch054e6efa39c2b741^ef7463fe39c2b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch0000000000000000^4028"ProcessPCH++ /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-generated-files.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/test-project-headers.hmap -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources/i386 -I/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/test.build/Release-iphonesimulator/test.build/DerivedSources -F/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.dia -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/test/test-Prefix.pch -o /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gr/j38ktq296xbfgvt9wflxyj3m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/test-Prefix-ghhwisndessdsqhdcrqacqpuwahv/test-Prefix.pch.d36"5A608A16-9036-45BE-B311-5B44F8EE6513-
+
+CTouch /Users/DLGames/Documents/matsusaki/Xamarin/library/test/build/Release-iphonesimulator/test.app
+r0
+
+CTouch /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app
+s398604801.710448
+e398604801.724714
+r1
+xTouch
+x/Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.appea21b6013ac2b741^f59fb9013ac2b741^---0#0#0#--513"Touch build/Release-iphonesimulator/test.app    cd /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/touch -c /Users/DLGames/Documents/matsusaki/Xamarin/library/useLibrary/Xcode/test/build/Release-iphonesimulator/test.app36"96C58EC6-B132-4160-8B64-ACA2D62175FE-
+
